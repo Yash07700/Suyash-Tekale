@@ -1,4 +1,5 @@
 # Suyash-Tekale
+(https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 # 💫 About Me:
 📈 I'm currently working on Wallpaper App Clone<br>🔍 I'm looking to collaborate on Ai Projects And Hackathons<br>👨🏻‍💻 I'm currently learning React-Native<br>
 
