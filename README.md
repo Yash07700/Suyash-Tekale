@@ -1,7 +1,7 @@
 # Suyash-Tekale
 
 # 💫 About Me:
-📈 I'm currently working on Wallpaper App Clone<br>🔍 I'm looking to collaborate on Ai Projects And Hackathons<br>👨🏻‍💻 I'm currently learning React-Native<br>
+📈 I'm currently working on Wallpaper App Clone<br>🔍 I'm looking to collaborate on Ai Projects And Hackathons<br>👨🏻‍💻 I'm currently learning C#.Net And React-Native<br>
 
 
 ## 🌐 Socials:
